@@ -8,7 +8,6 @@
 - [Jest](https://www.gatsbyjs.com/docs/how-to/testing/unit-testing/)
 - [React Testing Library](https://www.gatsbyjs.com/docs/how-to/testing/testing-react-components/)
 - [Storybook](https://www.gatsbyjs.com/docs/how-to/testing/visual-testing-with-storybook/)
-- [Documentation.js](https://www.gatsbyjs.com/plugins/gatsby-transformer-jsdoc/)
 - [Netlify CMS](https://www.netlifycms.org/docs/gatsby/)
 
 ## Usage
