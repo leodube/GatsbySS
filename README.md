@@ -3,6 +3,7 @@
 **Gatsby Simple Setup** is a gatsby boilerplate that handles the setup for:
 
 - [Gatsby](https://www.gatsbyjs.com/docs/reference/gatsby-cli/)
+- [Typescript](https://www.typescriptlang.org/)
 - [Yarn](https://yarnpkg.com/)
 - [Chakra UI](https://chakra-ui.com/guides/integrations/with-gatsby)
 - [Jest](https://www.gatsbyjs.com/docs/how-to/testing/unit-testing/)
