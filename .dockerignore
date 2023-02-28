@@ -1,0 +1,7 @@
+node_modules
+.cache
+.github
+public
+.dockerignore
+Dockerfile
+.DS_Store
